@@ -17,6 +17,6 @@ You can find me on Discord! @jad_#0069.
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=mark-80&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
