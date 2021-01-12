@@ -1,4 +1,4 @@
-![Header](https://www.github.com/mark-80/mark-80/blob/main/header.png?raw=true "Header")
+![Header](https://github.com/mark-80/mark-80/blob/main/header.png?raw=true "Header")
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
