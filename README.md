@@ -19,4 +19,4 @@ You can find me on Discord! @jad_#0069.
 
 ## &#x1f4c8; GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=mark-80&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=leJad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
