@@ -2,7 +2,7 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jad and I'm a backend developer. I'm currently not working on anything (yet). I like to learn new things and listen to music.
+My name is Jad and I'm a backend developer. I'm not working on anything right now (yet). I like to learn new things and listen to music.
 
 ## 📫 How to reach me:
 
