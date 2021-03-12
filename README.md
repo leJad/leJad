@@ -4,9 +4,7 @@
 
 My name is Jad and I'm a backend developer. I'm not working on anything right now (yet). I like to learn new things and listen to music.
 
-## 📫 How to reach me:
-
-You can find me on Discord! @jad_#0069.
+## 
 
 Skills: NODE JS / DENO JS / JS / DOCKER/ PYTHON/ BASH/ LINUX/ MONGODB
 
@@ -14,10 +12,10 @@ Skills: NODE JS / DENO JS / JS / DOCKER/ PYTHON/ BASH/ LINUX/ MONGODB
 - 🌱 I’m currently learning Rust 
 - 📫 How to reach me: stephanscode345@gmail.com 
 
-
+## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leJad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thisisecma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/markanderson000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ecblog.herokuapp.com/)  
 
 
-## &#x1f4c8; GitHub Stats:
+## GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=leJad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
