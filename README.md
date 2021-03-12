@@ -2,10 +2,6 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jad and I'm a backend developer. I'm not working on anything right now (yet). I like to learn new things and listen to music.
-
-## 
-
 Skills: NODE JS / DENO JS / JS / DOCKER/ PYTHON/ BASH/ LINUX/ MONGODB
 
 - 🔭 I’m currently working on Ceaor (coming soon) 
