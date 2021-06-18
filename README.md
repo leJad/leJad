@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lJad&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=leJad&show_icons=true">
 
 ### Hello, World! 👋
 I'm Ecma, a Junior Back-End Developer from Turkey.
